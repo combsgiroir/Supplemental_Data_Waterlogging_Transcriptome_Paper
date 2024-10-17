@@ -1,7 +1,7 @@
 # Supplemental_Data_Waterlogging_Transcriptome_Paper
 This repository contains all supplemental data files referenced in "Morpho-physiological and transcriptomic responses of field pennycress to waterlogging"
 
-##The following is a brief explanation of the contents within each file:
+## The following is a brief explanation of the contents within each file:
 
 -Supplemental_File_1_DEGs.xlsx : This file contains a list of all the differentially expressed genes in root, leaf, and pod tissues based on 3 conditions (control, 7d waterlogged, and 3HR recovery) and 2 accessions (MN106 and SP32-10).
 
